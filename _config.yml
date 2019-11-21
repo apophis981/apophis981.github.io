@@ -80,3 +80,5 @@ topics:
 
   - name: Big Data
     image_url: https://konnector.io/wp-content/uploads/2018/07/database.png
+
+theme: jekyll-theme-modernist
