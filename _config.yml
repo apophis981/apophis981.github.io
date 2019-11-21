@@ -17,7 +17,7 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: pushed
+  sort_by: stars
   # sort_by options:
   #   - pushed
   #   - stars
@@ -58,6 +58,17 @@ topics:
   - name: Android
     web_url: android.com
     image_url: https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/050/thumb/androidlogo.png
+
+  - name: Golang
+    web_url: https://golang.org/
+    image_url: https://d1q6f0aelx0por.cloudfront.net/product-logos/81630ec2-d253-4eb2-b36c-eb54072cb8d6-golang.png
+    
+  - name: Python
+    web_url: https://www.python.org/
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png
+
+  - name: Backend Engineering
+    image_url: https://cdn3.iconfinder.com/data/icons/ringtone-music-instruments/512/blue-round-settings-gear-engine-details-256.png
 
   - name: Google DeepMind
     web_url: https://deepmind.com/
