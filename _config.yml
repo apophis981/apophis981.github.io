@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -26,33 +26,46 @@ projects:
     archived: false
     forks: true
     projects:
-    # - repo-name
+     - Resume
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
-  # hackerrank: your_username
+  hackerrank: apophis981
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: jeremyrhurst
   # mastodon: your_username
   # medium: your_username
-  # stackoverflow: your_user_id
+  stackoverflow: 12407480
   # telegram: your_username
-  # twitter: your_username
+  twitter: Apophis981
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
-  # youtube: your_username
+  youtube: channel/UCj5hWElSZUIR_RDvqdp7opQ
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  - name: Web design
+  - name: Home Automation
+    web_url: https://store.google.com/us/product/google_home
+    image_url: https://cdn.iconscout.com/icon/premium/png-256-thumb/home-automation-17-726007.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Robotics
+    image_url: https://cdn.iconscout.com/icon/premium/png-512-thumb/robotics-51-645244.png
+
+  - name: Android
+    web_url: android.com
+    image_url: https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/050/thumb/androidlogo.png
+
+  - name: Google DeepMind
+    web_url: https://deepmind.com/
+    image_url: https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_120,w_120,f_auto,b_white,q_auto:eco/v1424343851/jzb3htgphxrp30uqqojv.png
+
+  - name: IoT
+    web_url: https://en.wikipedia.org/wiki/Internet_of_things
+    image_url: https://www.hoyads.com/hs-fs/hubfs/images/solution/iot-icon02.png?width=128&height=128&name=iot-icon02.png
+
+  - name: Big Data
+    image_url: https://konnector.io/wp-content/uploads/2018/07/database.png
